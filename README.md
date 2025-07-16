@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-<a href="www.linkedin.com/in/leonardo-pires-tirado" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-00246D?style=for-the-badge&logo=devbox&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/leonardo-pires-tirado" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-00246D?style=for-the-badge&logo=devbox&logoColor=white"</a>
 </div> 
  
 ### Main skills:
